@@ -4,3 +4,4 @@ The repository provides scripts and documentation for calculating beta_land and 
 
 <code>TCREsource_betagamma.ipynb</code> extends this calculation to all modeling data sources available (e.g., additional single model process ensembles).
 
+<code>Bayes_betagamma_land.ipynb</code> applies a Bayesian framework to estimate beta and gamma updated with information from all available sources.
